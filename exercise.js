@@ -50,3 +50,4 @@ function getListItem(array, arrayIndex) {
 
 let firstGoal = getListItem(grouping.goalsForBrad, 0);
 alert(firstGoal)
+
